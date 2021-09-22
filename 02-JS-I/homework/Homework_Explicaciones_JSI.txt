@@ -1,0 +1,13 @@
+1. Variables: Son objetos a los que se les puede asignar cualquier tipo de dato (str, booleano, numerico,etc)
+
+2. Strings: Son un tipo de dato que se refiere a texto. Puede ser un solo caracter o una cadena
+
+3. Funciones: Son bloques de código que realizan una determianda tarea. Sirven para no tener necesidad de reescribir el
+código cada vez que lo necesitamos, basta con llamar a esa función y listo. Los argumentos de una función son paràmetros
+que ésta recibe para ejecutar el código, pueden ser cualquier tipo de dato. El "return" de una función es lo que ésta nos
+devuelve al finalizar su proceso, es lo único que sale de la función, es el resultado.
+
+4. Declaraciones if: Son bloques de código que nos permiten hacer operaciones lógicas, verificando si una condición es
+verdadera o falsa
+
+5. Valores booleanos: Son Verdadero o Falso. Surgen de verificar una condición.
