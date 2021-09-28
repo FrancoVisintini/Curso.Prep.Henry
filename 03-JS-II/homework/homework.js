@@ -111,6 +111,7 @@ function fizzBuzz(numero) {
   } else {
     return numero;
   }
+}
 
 function operadoresLogicos(num1, num2, num3) {
   //La función recibe tres números distintos. 
@@ -141,7 +142,7 @@ function esPrimo(numero) {
   // Pista 2: Puedes resolverlo usando un bucle `for`
   // Nota: Los números 0 y 1 NO son considerados números primos
   if(numero>1) {
-    for (let i=2, i<numero , i++  ) {
+    for (let i=2; i<numero ; i++  ) {
       if(numero % i == 0) {
         return true;
         break;
@@ -169,7 +170,7 @@ function tablaDelSeis(){
   //La función devuelve un array con los resultados de la tabla de multiplicar del 6 en orden creciente.
   //Escribe tu código aquí
   tabla6 = []
-  for (i=0, i<=60, i++) {
+  for (i=0; i<=60; i++) {
     tabla6.push(6*i); 
   }  
   console.log(tabla6);
@@ -217,4 +218,4 @@ module.exports = {
   tablaDelSeis,
   tieneTresDigitos,
   doWhile
-};
+}
