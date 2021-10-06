@@ -86,13 +86,18 @@ function agregarNumeros(numeros) {
   // "numeros" debe ser un arreglo de enteros (int/integers)
   // Suma todos los enteros y devuelve el valor
   // Tu código:
-  let resultado = 0;
-  for(let i=0; i<numeros.length; i++){
-    if(Number.isInteger(numeros[i])){
-      resultado = resultado + numeros[i];
-    }
-  }
-  return resultado
+  
+  //let resultado = 0;
+  //for(let i=0; i<numeros.length; i++){
+  //  if(Number.isInteger(numeros[i])){
+  //    resultado = resultado + numeros[i];
+  //  }
+  //}
+  //return resultado
+  const suma = numeros.reduce(function(acc,elemento){
+    return acc + elemento;
+  });
+  return suma;
 }
 
 
@@ -112,13 +117,16 @@ function numeroMasGrande(numeros) {
   // "numeros" debe ser una matriz de enteros (int/integers)
   // Devuelve el número más grande
   // Tu código:
-  let masGrande=numeros[0];
-  for(let i=1; i<numeros.length; i++){
-    if(numeros[i]>masGrande){
-      masGrande = numeros[i];
-    }
-  }
-  return masGrande;
+  // OPCION 1
+  //  let masGrande=numeros[0];
+  //  for(let i=1; i<numeros.length; i++){
+  //    if(numeros[i]>masGrande){
+  //      masGrande = numeros[i];
+  //    }
+  //  }
+  //  return masGrande;
+  let mayor = numeros.sort(function(a,b){return a - b;})[numeros.length-1];
+  return mayor
 }
 
 
