@@ -19,11 +19,16 @@ img{
     height: 700px;
     width : 500px;
     background-color: rosybrown; 
-    padding: 50px;
+    padding: 30px;
     border: solid silver;
     border-width: 3px;
-    color: black;
     margin-left: 25%;
+    display: flex;
+    align-items:space-between;
+}
+
+#img1{
+   
 }
 
 #spanId {
