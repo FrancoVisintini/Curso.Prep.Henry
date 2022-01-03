@@ -24,13 +24,15 @@ Acá vas a encontrar todo lo que necesitas para arrancar el Curso de Preparació
 
 ### Instructivo de Primeros Pasos:
 
-<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/594716483?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;h=4bdfa8d552" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="M0 - Primeros pasos.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe src="https://player.vimeo.com/video/638636752" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe> 
 
-> **Nota**: Wanda menciona un mail con la invitacion al repo, ahora el repo es público, por lo tanto *no es necesario ese email*. Se puede acceder en este [link](https://github.com/atralice/Curso.Prep.Henry).
+> **Importante**: Github cambió el método de autenticación, ahora es por PAT (Personal Access Token), para crearlo pueden seguir este [link](https://docs.github.com/es/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token). Pueden elegir expiration infinita para hacerlo una sóla vez.
+
+Link al repositorio de github: [repo](https://github.com/atralice/Curso.Prep.Henry/)https://github.com/atralice/Curso.Prep.Henry/
 
 ### Cómo usar SLACK
 
-<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/594717218?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;h=6fb2e70c5c" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Prep Course - Intro a Slack.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe src="https://player.vimeo.com/video/548902078" width="640" height="365" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 > Gracias [Nico Constantin (FT#12)](https://github.com/NicoConstantin) por el video y la explicación!
 

@@ -14,11 +14,16 @@
 * [07 - VI - Callbacks](./07-JS-VI)
 * [08 - HTML](./08-HTML)
 * [09 - CSS](./09-CSS-Positioning)
-* Henry Challenge => [Inscribite acá para rendir](https://airtable.com/shrjhdL2GfsusMZ05)
+* Henry Challenge => [Inscribite acá para rendir](https://challenge.prep.soyhenry.com/)
 
 ## Conceptos:
 
 * [Expressions vs Statements](./JS-conceptos/Statements-Expressions/)
+
+## Clases de Repaso (Henry Heroes)
+
+Estudiantes mas avanzados de la carrera resuelven los ejercicios en vivo en formato webinar.
+[Acá podes](https://docs.google.com/spreadsheets/d/e/2PACX-1vQwV-pEgWuxqI1B3pdVI0lbeqPB0a6LHPk6-DQlifDdX9Rue_Ul4YTOxoOg-hhofv6U0f32OoXOU2Wf/pubhtml) ver el calendario de las clases y las grabaciones.
 
 ## Homeworks
 
@@ -41,4 +46,4 @@ y así.
 # La Carrera
 
 Si querés saber más sobre la carrera, mirá este video:
-<iframe src="https://player.vimeo.com/video/594727242" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/426051769" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>

@@ -22,7 +22,7 @@ En esta lección cubriremos:
 * Palabra clave `this`
 * Objetos en Javascript
 
-<iframe src="https://player.vimeo.com/video/594722608" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/424936732" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ## Introducción a los Objetos
 
@@ -37,7 +37,7 @@ const nuevoObjeto = {};
 A diferencia de las matrices que tienen elementos valorados en índices, los objetos usan un concepto llamado pares de clave:valor. La clave (_key_) es el identificador y el valor (_value_) es el valor que queremos guardar en esa clave. La sintaxis es "clave: valor". Los objetos pueden contener muchos pares de clave-valor, deben estar separados por una coma (importante: sin punto y coma dentro de un objeto). Las claves son únicas en un objeto, solo puede haber una clave de ese nombre, aunque, varias claves pueden tener el mismo valor. Los valores pueden ser cualquier tipo de dato de Javascript; cadena, número, booleano, matriz, función o incluso otro objeto. En esta demostración crearemos un objeto `usuario`.
 
 ```javascript
-const usuario = {
+const user = {
     username: 'juan.perez',
     password: 'loremipsumpwd123',
     lovesJavascript: true,
